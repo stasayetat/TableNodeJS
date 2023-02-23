@@ -1,0 +1,13 @@
+{
+  "name": "nodestart",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "hbs": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  }
+}
